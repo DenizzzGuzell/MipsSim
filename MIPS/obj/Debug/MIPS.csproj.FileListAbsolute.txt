@@ -1,0 +1,12 @@
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.csproj.AssemblyReference.cache
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorke\Desktop\MIPS-master\bin\Debug\MIPS.exe
+C:\Users\gorke\Desktop\MIPS-master\bin\Debug\MIPS.pdb
+C:\Users\gorke\Desktop\MIPS-master\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\gorke\Desktop\MIPS-master\bin\Debug\MetroSet UI.dll
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.Form1.resources
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.csproj.GenerateResource.cache
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.csproj.CopyComplete
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.exe
+C:\Users\gorke\Desktop\MIPS-master\obj\Debug\MIPS.pdb
